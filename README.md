@@ -1,5 +1,7 @@
 **##Skin Disease Classification Using Hybrid CNN Framework and Automated Clinical Insights using LLMs**
 
+
+
 **📌 Project Overview**
 
 This project focuses on the automated classification of skin diseases using a hybrid deep learning framework, combined with Large Language Models (LLMs) to provide clinical insights such as symptoms, causes, and treatments.
