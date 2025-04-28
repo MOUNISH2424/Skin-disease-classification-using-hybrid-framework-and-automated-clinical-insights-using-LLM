@@ -1,4 +1,4 @@
-##**Skin Disease Classification Using Hybrid CNN Framework and Automated Clinical Insights using LLMs**
+**##Skin Disease Classification Using Hybrid CNN Framework and Automated Clinical Insights using LLMs**
 
 **📌 Project Overview**
 
